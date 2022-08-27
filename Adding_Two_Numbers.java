@@ -1,0 +1,13 @@
+import java.util.Scanner;
+import java.lang.Math;
+class cd
+{
+    public static void main(String[] args)
+    {
+        Scanner in = new Scanner(System.in);
+        int  a=in.nextInt();
+        int  b=in.nextInt();
+        int d=a+b;
+        System.out.println(d);
+    }
+}
